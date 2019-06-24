@@ -1,0 +1,6 @@
+framework module Pods_bulletinboard {
+  umbrella header "Pods-bulletinboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
